@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=textBox&text1=Emerson%20Coelho%20de%20Azevedo&width=900&height=250" />
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Emerson%20Coelho%20de%20Azevedo&width=900&height=250" />
 </p>
+
 
 
 <p align="center">

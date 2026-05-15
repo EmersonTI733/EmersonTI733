@@ -1,16 +1,84 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Emerson Coelho de Azevedo!</h1>
 
-<!--
-**EmersonTI733/EmersonTI733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor em formação | Focado em Front-end | Determinado a evoluir todos os dias
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou um desenvolvedor apaixonado por tecnologia e atualmente focado em construir uma base sólida no desenvolvimento web.  
+Gosto de transformar ideias em código e estou sempre buscando aprender algo novo para elevar meu nível técnico.
+
+- 🔭 Atualmente estudando pelo **DevClub**
+- 🌱 Aprendendo e praticando: **HTML, CSS, JavaScript, Git e GitHub**
+- 🎯 Objetivo: Me tornar um desenvolvedor Front-end completo
+- 💬 Posso ajudar com: **Lógica, HTML, CSS e Git**
+- 📫 Contato: **contato.emers733@gmail.com**
+- 🔗 LinkedIn: **linkedin.com/in/emersonazevedo733**
+- ⚡ Curiosidade: Sou movido por desafios e evolução contínua
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div style="display: inline_block"><br>
+
+  <!-- Linguagens -->
+  <img align="center" alt="HTML" height="40" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+
+  <!-- Ferramentas -->
+  <img align="center" alt="VSCode" height="40" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Git" height="40" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="NodeJS" height="40" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Docker" height="40" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+
+</div>
+
+---
+
+## 📊 Minhas estatísticas no GitHub
+
+<div align="center">
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=EmersonTI733&show_icons=true&theme=tokyonight"/>
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonTI733&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+## 📂 Projetos em Destaque
+
+> Ainda estou construindo meus primeiros projetos.  
+> Em breve, adicionarei aqui meus melhores trabalhos!
+
+---
+
+## 🤝 Conecte-se comigo
+
+<div>
+  <a href="https://www.linkedin.com/in/emersonazevedo733" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:contato.emers733@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+---
+
+⭐ *Se gostou do meu perfil, não esqueça de deixar uma estrela nos meus repositórios!*

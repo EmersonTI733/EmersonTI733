@@ -1,4 +1,8 @@
 <p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/EmersonTI733/EmersonTI733/main/assets/banner-tech-emerson.svg" />
+</p>
+
+<p align="center">
   <img src="https://svg-banners.vercel.app/api?type=textBox&text1=Emerson%20Coelho%20de%20Azevedo&width=900&height=250" />
 </p>
 

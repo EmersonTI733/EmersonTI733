@@ -39,16 +39,10 @@ Gosto de transformar ideias em código e estou sempre buscando aprender algo nov
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
   <!-- Ferramentas -->
-  <img align="center" alt="VSCode" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Git" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="NodeJS" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Docker" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+ <p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/EmersonTI733/EmersonTI733/main/assets/banner-tech-emerson.svg" />
+</p>
+
 
 </div>
 

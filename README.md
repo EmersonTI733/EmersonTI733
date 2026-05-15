@@ -1,4 +1,7 @@
-<h1 align="center">👋 Olá, eu sou o Emerson Coelho de Azevedo!</h1>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=textBox&text1=Emerson%20Coelho%20de%20Azevedo&width=900&height=250" />
+</p>
+
 
 <p align="center">
   Desenvolvedor em formação | Focado em Front-end | Determinado a evoluir todos os dias

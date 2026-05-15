@@ -30,7 +30,7 @@ Gosto de transformar ideias em código e estou sempre buscando aprender algo nov
 
 <div style="display: inline_block"><br>
 
-  <p align="center">
+ <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/EmersonTI733/EmersonTI733/main/assets/banner-tech-emerson.svg" />
 </p>
 

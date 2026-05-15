@@ -30,16 +30,7 @@ Gosto de transformar ideias em código e estou sempre buscando aprender algo nov
 
 <div style="display: inline_block"><br>
 
-  <!-- Linguagens -->
-  <img align="center" alt="HTML" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-
-  <!-- Ferramentas -->
- <p align="center">
+  <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/EmersonTI733/EmersonTI733/main/assets/banner-tech-emerson.svg" />
 </p>
 

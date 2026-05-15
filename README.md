@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/EmersonTI733/EmersonTI733/main/assets/banner-tech-emerson.svg" />
-</p>
+
 
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=textBox&text1=Emerson%20Coelho%20de%20Azevedo&width=900&height=250" />
@@ -34,10 +32,23 @@ Gosto de transformar ideias em código e estou sempre buscando aprender algo nov
 
 <div style="display: inline_block"><br>
 
- <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/EmersonTI733/EmersonTI733/main/assets/banner-tech-emerson.svg" />
-</p>
+  <!-- Linguagens -->
+  <img align="center" alt="HTML" height="40" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
+  <!-- Ferramentas -->
+  <img align="center" alt="Node.js" height="40" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Docker" height="40" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="VSCode" height="40" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
 </div>
 
